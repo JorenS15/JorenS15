@@ -3,7 +3,6 @@
 •📫 discord: joren_15  
 
 •🏆 Achievements  
-•⌨️ Building multiple websites   
-•🎮 Creating a roblox game  
+•⌨️ Building multiple websites
 •💻 Learning to code @ codefever  
 •🛠️ Currently learning javascript  
